@@ -1,6 +1,6 @@
-Django Girls aims to be a welcoming event, where people meet in a friendly environment. Accordingly, we expect that all participants are expected to show respect and courtesy to other participants throughout the workshop.
+Django Girls tem a intenção de ser um evento de boas vindas, onde pessoas se encontrem em um ambiente amigável. Assim, esperamos que todos os participantes mostrem respeito e cortesia com outros participantes ao longo do workshop. 
 
-To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any Django Girls event are required to conform to the following Code of Conduct. Organizers will enforce this code before and throughout the event.
+Para deixar claro o que é esperado, é exigido que todos os participantes, palestrantes, expositores, organizadores e voluntários em qualquer evento Django Girls estejam de acordo com o seguinte Código de Conduta. Organizadores irão fazer cumprir esse código antes e durante o evento. 
 
 ### In short
 
