@@ -6,7 +6,7 @@ Para deixar claro o que é esperado, é exigido que todos os participantes, pale
 
 - Django Girls é dedicado a oferecer uma experiência de workshop livre de assédio para todos, independente do sexo, orientação sexual, deficiência, aparência física, tamanho corporal, raça ou religião. 
 - Nós não toleramos assédio de participantes do workshop de forma alguma. 
-- Linguagem vulgar e imagens não são apropriados em nenhuma parte do workshop, incluindo palestras. 
+- Conteúdo sexual e imagens não são apropriados em nenhuma parte do workshop, incluindo palestras. 
 - Sexual language and imagery is not appropriate for any workshop venue, including talks.
 - Seja gentil com os outros. Não insulte ou desanime outros participantes. Se comporte profissionalmente. Não publique fotos de outras pessoas sem o concentimento delas. Lembre-se que piadas de assédio, sexismo, racismo e exclusão não são apropriadas para Django Girls. 
 - Conference participants violating these rules may be sanctioned or expelled from the workshop without a refund at the discretion of the workshop organizers.
@@ -25,6 +25,6 @@ We expect participants to follow these rules at all workshop venues and workshop
 
 ### Reportando Assédio
 
-Se você está sendo assediada, percebeu que outra pessoa está sendo assediada, ou tiver alguma dúvida, por favor, fale com o seu treinador ou um das organizadoras imediatamente. 
+Se você for assediada, perceber que outra pessoa foi assediada, ou tem outras preocupações, por favor, fale com o sua treinadora ou um das organizadoras imediatamente. 
 
 A Equipe está bem informada em como lidar com o incidente e em como agir com a situação. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
