@@ -23,8 +23,8 @@ If a participant engages in harassing behavior, the workshop organizers may take
 
 We expect participants to follow these rules at all workshop venues and workshop-related social events.
 
-### Reporting harassment
+### Reportando Assédio
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact your coach or one of the organizers immediately.
+Se você está sendo assediada, percebeu que outra pessoa está sendo assediada, ou tiver alguma dúvida, por favor, fale com o seu treinador ou um das organizadoras imediatamente. 
 
-The staff is well informed on how to deal with the incident and how to further proceed with the situation. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+A Equipe está bem informada em como lidar com o incidente e em como agir com a situação. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
