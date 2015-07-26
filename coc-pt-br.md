@@ -2,12 +2,13 @@ Django Girls tem a intenção de ser um evento acolhedor, onde pessoas se encont
 
 Para deixar claro o que é esperado, é exigido que todos os participantes, palestrantes, expositores, organizadores e voluntários em qualquer evento Django Girls estejam de acordo com o seguinte Código de Conduta. Organizadores irão fazer cumprir esse código antes e durante o evento. 
 
-### In short
+### Resumindo
 
-- Django Girls is dedicated to providing a harassment-free workshop experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion.
-- We do not tolerate harassment of workshop participants in any form.
+- Django Girls é dedicado a oferecer uma experiência de workshop livre de assédio para todos, independente do sexo, orientação sexual, deficiência, aparência física, tamanho corporal, raça ou religião. 
+- Nós não toleramos assédio de participantes do workshop de forma alguma. 
+- Linguagem vulgar e imagens não são apropriados em nenhuma parte do workshop, incluindo palestras. 
 - Sexual language and imagery is not appropriate for any workshop venue, including talks.
-- Be kind to others. Do not insult or put down other attendees. Behave professionally. Don’t publish photographs of people without their consent. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for Django Girls.
+- Seja gentil com os outros. Não insulte ou desanime outros participantes. Se comporte profissionalmente. Não publique fotos de outras pessoas sem o concentimento delas. Lembre-se que piadas de assédio, sexismo, racismo e exclusão não são apropriadas para Django Girls. 
 - Conference participants violating these rules may be sanctioned or expelled from the workshop without a refund at the discretion of the workshop organizers.
 
 ### Longer version
